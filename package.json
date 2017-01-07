@@ -1,0 +1,31 @@
+{
+  "name": "linter-spell-cjk",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "Fake dictionary to ignore mis-detected cjk words",
+  "keywords": [
+    "linter-spell",
+    "spell-check"
+  ],
+  "repository": "https://github.com/naota/linter-spell-cjk",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/naota/linter-spell-cjk/issues"
+  },
+  "dependencies": {
+    "babel-plugin-transform-unicode-property-regex": "^1.0.0"
+  },
+  "package-deps": [
+    "linter-spell"
+  ],
+  "providedServices": {
+    "linter-spell-dictionary": {
+      "versions": {
+        "1.0.0": "provideDictionary"
+      }
+    }
+  }
+}
