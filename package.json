@@ -1,7 +1,7 @@
 {
   "name": "linter-spell-cjk",
   "main": "./lib/main",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fake dictionary to ignore mis-detected cjk words",
   "keywords": [
     "linter-spell",
