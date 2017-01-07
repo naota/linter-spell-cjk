@@ -10,8 +10,8 @@ In short,
 
 Without linter-spell-cjk:
 
-![without linter-spell-cjk](before.png)
+![without linter-spell-cjk](https://raw.githubusercontent.com/naota/linter-spell-cjk/master/before.png)
 
 With linter-spell-cjk:
 
-![with linter-spell-cjk](after.png)
+![with linter-spell-cjk](https://raw.githubusercontent.com/naota/linter-spell-cjk/master/after.png)
